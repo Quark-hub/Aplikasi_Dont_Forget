@@ -10,7 +10,7 @@ Daftar Nama Anggota:
 Desain: https://www.figma.com/design/ynLmseoX0ID5borBiqsuo4/desain-proyek?node-id=5-3&t=dYGouJm8DRbGvCmF-1
 
 To Do List:
-<li></li> Kurnia Hafiz Arrasyid (Desain, Prototype)
-<li></li> Owen Liandra (Coding)
-<li></li>Andhika Rianda Harahap (Desain, User Manual)
-<li></li>Immanuel M. Siringoringo (User Manual)
+1.Kurnia Hafiz Arrasyid (Desain, Prototype)
+2.Owen Liandra (Coding)
+3.Andhika Rianda Harahap (Desain, User Manual)
+4.Immanuel M. Siringoringo (User Manual)
